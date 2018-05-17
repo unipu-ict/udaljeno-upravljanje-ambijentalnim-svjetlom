@@ -1,4 +1,4 @@
-# udaljeno-upravljanje-ambijentalnim-svjetlom-iot+mobapp
+# udaljeno-upravljanje-ambijentalnim-svjetlom-iotapp+mobapp
 Sustav za udaljeno upravljanje preko mobilne aplikacije s adresabilnim LED trakama.
 
 ### Autori (2017./2018.)
